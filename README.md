@@ -26,7 +26,7 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 
-You have to use three main data tables for the entire analysis (available for download on the next page):
+You have to use three main data tables for the entire analysis.
 
  
 
